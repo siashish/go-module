@@ -1,0 +1,11 @@
+mode: set
+github.com/test/greetings/greetings.go:12.41,14.16 1 1
+github.com/test/greetings/greetings.go:18.2,19.21 2 1
+github.com/test/greetings/greetings.go:14.16,16.3 1 1
+github.com/test/greetings/greetings.go:37.56,42.29 2 0
+github.com/test/greetings/greetings.go:51.2,51.22 1 0
+github.com/test/greetings/greetings.go:42.29,44.17 2 0
+github.com/test/greetings/greetings.go:49.3,49.27 1 0
+github.com/test/greetings/greetings.go:44.17,46.4 1 0
+github.com/test/greetings/greetings.go:55.13,57.2 1 1
+github.com/test/greetings/greetings.go:61.28,71.2 2 1
